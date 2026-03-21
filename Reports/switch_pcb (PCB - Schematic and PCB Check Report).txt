@@ -1,18 +1,18 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     15:29 Saturday, March 21, 2026
+Report Written:     23:51 Saturday, March 21, 2026
 Project Path:       C:\Users\davec\GIT\penplot-pcb\switch_pcb.prj
 Design Path:        C:\Users\davec\GIT\penplot-pcb\switch_pcb.pcb
 Design Title:       
 Created:            2/4/2025 10:32:15 PM
-Last Saved:         3/21/2026 3:24:10 PM
-Editing Time:       8084 min
+Last Saved:         3/21/2026 11:51:27 PM
+Editing Time:       8575 min
 Units:              mm (precision 3)
 
 
-Checking integrity of Schematic and Pcb designs in project "switch_pcb"
-=======================================================================
+Checking integrity of Schematic "C:\Users\davec\GIT\penplot-pcb\switch_pcb.prj" with PCB "C:\Users\davec\GIT\penplot-pcb\switch_pcb.pcb"
+========================================================================================================================================
 
 
 End Of Report.
