@@ -1,0 +1,7 @@
+"Object Type","Tracks","Pads","Vias","Shapes","Text"
+Tracks,0.150mm,0.200mm,0.200mm,0.200mm,0.254mm
+Pads,0.200mm,0.000mm,0.200mm,0.200mm,0.254mm
+Vias,0.200mm,0.200mm,0.200mm,0.200mm,0.254mm
+Shapes,0.200mm,0.200mm,0.200mm,0.200mm,0.254mm
+Text,0.254mm,0.254mm,0.254mm,0.254mm,0.254mm
+Board,0.254mm,2.540mm,0.254mm,0.254mm,0.254mm
